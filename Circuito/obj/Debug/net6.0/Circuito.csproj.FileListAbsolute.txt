@@ -1,0 +1,15 @@
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.csproj.AssemblyReference.cache
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.AssemblyInfoInputs.cache
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.AssemblyInfo.cs
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.csproj.CoreCompileInputs.cache
+C:\Users\jcp\Desktop\Circuito\bin\Debug\net6.0\Circuito.exe
+C:\Users\jcp\Desktop\Circuito\bin\Debug\net6.0\Circuito.deps.json
+C:\Users\jcp\Desktop\Circuito\bin\Debug\net6.0\Circuito.runtimeconfig.json
+C:\Users\jcp\Desktop\Circuito\bin\Debug\net6.0\Circuito.dll
+C:\Users\jcp\Desktop\Circuito\bin\Debug\net6.0\Circuito.pdb
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.dll
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\refint\Circuito.dll
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.pdb
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\Circuito.genruntimeconfig.cache
+C:\Users\jcp\Desktop\Circuito\obj\Debug\net6.0\ref\Circuito.dll

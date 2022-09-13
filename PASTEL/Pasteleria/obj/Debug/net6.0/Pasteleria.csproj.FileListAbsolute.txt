@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\bin\Debug\net6.0\Pasteleria.exe
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\bin\Debug\net6.0\Pasteleria.deps.json
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\bin\Debug\net6.0\Pasteleria.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\bin\Debug\net6.0\Pasteleria.dll
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\bin\Debug\net6.0\Pasteleria.pdb
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.dll
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\refint\Pasteleria.dll
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.pdb
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\Pasteleria.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PASTEL\Pasteleria\obj\Debug\net6.0\ref\Pasteleria.dll
